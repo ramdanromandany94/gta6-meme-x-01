@@ -1,8 +1,8 @@
 # GTA 6 meme — the make.fun ghost waited 13 years too
 
 [![make.fun](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
-[![rank](https://make.fun/badge/ramdanromandany94/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
-[![reward](https://make.fun/badge/ramdanromandany94/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/ramdanromandany94/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/ramdanromandany94/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
 
 ## The meme
 
